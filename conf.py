@@ -1,4 +1,3 @@
-Python
 project = 'communities-anywhere'
 copyright = '2026'
 author = 'Admin'
