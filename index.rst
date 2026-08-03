@@ -1,12 +1,12 @@
 How to Download, Install, Uninstall and Reinstall AOL Desktop Gold — Step-by-Step 
 ===================================================================================
 
-To download AOL Desktop Gold, sign in to your AOL account at aol.com, open your account or subscription page, select Desktop Gold, and save the installer for Windows or Mac. Existing members do not pay twice. Run the file, sign in with your AOL username and password and the app is ready to use. 
+To **Download AOL Desktop Gold**, sign in to your AOL account at aol.com, open your account or subscription page, select **Desktop Gold**, and save the installer for Windows or Mac. Existing members do not pay twice. Run the file, sign in with your **AOL username** and **password** and the app is ready to use. 
 
 .. raw:: html
 
 
-This guide walks through every stage of owning AOL Desktop Gold. You will learn how to download it, install it, remove it and put it back on your computer if something goes wrong. 
+This guide walks through every stage of owning **AOL Desktop Gold**. You will learn **how to download** it, install it, remove it and put it back on your computer if something goes wrong. 
 
 
 What Is AOL Desktop Gold? 
